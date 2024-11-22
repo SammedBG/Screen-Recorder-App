@@ -1,0 +1,6 @@
+Flask
+pymongo
+opencv-python
+numpy
+pyautogui
+dnspython
